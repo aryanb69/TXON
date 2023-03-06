@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UnitConv</string>
+    <string name="welcome_user">Welcome User !</string>
+    <string name="meters">Meters</string>
+    <string name="kilometers">kilometers</string>
+    <string name="miles">Miles</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="unit_converter_developed_by_aryan_bamne">Unit-Converter -Developed by Aryan Bamne.</string>
+    <string name="enter_value_in_meters">Enter value in meters</string>
+    <string name="milimeter">Milimeter</string>
+</resources>
